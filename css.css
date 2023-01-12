@@ -1,0 +1,29 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,200;1,100;1,400&family=Mountains+of+Christmas:wght@400;700&family=Oswald:wght@200;300&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header {
+  font-family: "Inter Tight", sans-serif;
+  font-family: "Mountains of Christmas", cursive;
+  font-family: "Oswald", sans-serif;
+  padding: 60px;
+  text-align: center;
+  background-color: rgb(3, 3, 166);
+  font-size: 30px;
+  color: white;
+}
+
+.custom-select {
+  position: relative;
+  font-family: Arial;
+  color: black;
+}
+
+.custom-select2 {
+  position: relative;
+  font-family: Arial;
+  color: black;
+}
